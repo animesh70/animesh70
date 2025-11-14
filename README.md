@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Animesh+Mohanty!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from India 🇮​​🇳​</h3>
 
 <br/>
 
 <div align="center">
  
-- 👋 Hi, I’m Animesh
+ 👋 Hi, I’m Animesh
  
-- 🌱 I’m currently pursuing B.tech in Computer Science & Engineering
+ 🌱 I’m currently pursuing B.tech in Computer Science & Engineering
 
-- 🤝 I’m looking to collaborate on any projects which would help me to grow and build experiences
+ 🤝 I’m looking to collaborate on any projects which would help me to grow and build experiences
 
-- 📫 You can reach me at animeshmohanty59@gmail.com or at linkedin.com/animesh-mohanty-352bb3385
+ 📫 You can reach me at animeshmohanty59@gmail.com or at linkedin.com/animesh-mohanty-352bb3385
 
  </div>
  
