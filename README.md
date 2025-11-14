@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+- 👋 Hi, I’m Animesh
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+- 🌱 I’m currently pursuing B.tech in Computer Science & Engineering
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/animesh70/animesh70/issues)**
+- 🤝 I’m looking to collaborate on any projects which would help me to grow and build experiences
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+- 📫 You can reach me at animeshmohanty59@gmail.com or at linkedin.com/animesh-mohanty-352bb3385
 
  </div>
  
