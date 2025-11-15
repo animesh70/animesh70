@@ -1,10 +1,14 @@
+<div align="center">
+  <img src="./assets/luffy-gear5-banner.png" alt="Gear 5 Luffy Banner" width="100%" />
+</div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=animesh70.animesh70" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Animesh+Mohanty!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India 🇮​​🇳​</h3>
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 <br/>
 
