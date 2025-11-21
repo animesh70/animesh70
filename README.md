@@ -14,12 +14,12 @@
 
 <div align="center">
  
- 👋 Hi, I’m Animesh
+ 🌱 I'm dedicated to learning and building, currently focusing on **DSA in Java**, side-by-side with exploring **Web Development** and **AI/ML**.
+
+ 🤝 Let's collaborate! I'm actively seeking opportunities on impactful projects to gain experience and grow my skills.
+
+ ⭐ Found my work useful? Please consider giving a star to my projects on GitHub—it helps a lot!
  
- 🌱 I’m currently pursuing B.tech in Computer Science & Engineering
-
- 🤝 I’m looking to collaborate on any projects which would help me to grow and build experiences
-
  📫 You can reach me at animeshmohanty59@gmail.com or at linkedin.com/animesh-mohanty-352bb3385
 
  </div>
@@ -41,7 +41,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java" /><br>
 </div>
 
