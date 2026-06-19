@@ -20,7 +20,7 @@
 
  ⭐ Found my work useful? Please consider giving a star to my projects on GitHub—it helps a lot!
  
- 📫 You can reach me at animeshmohanty59@gmail.com or at linkedin.com/animesh-mohanty-352bb3385
+ 📫 You can reach me at animeshmohanty59@gmail.com or at linkedin.com/animeshmohanty70
 
  </div>
  
